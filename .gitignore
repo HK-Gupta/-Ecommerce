@@ -34,6 +34,7 @@ migrate_working_dir/
 lib/services/constants.dart
 firebase.json
 shopping_app.iml
+lib/firebase_options.dart
 
 
 # Symbolication related
